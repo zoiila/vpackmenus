@@ -15,7 +15,7 @@ This packaged preview contains a small asset catalogue and one Guess the Build e
 - [Install guide](docs/INSTALL.md)
 - [Offline design review](screenshots/GuessBuild-Design-Review.png)
 
-The design review is a code-authored offline composition, **not** a Minecraft client screenshot. The resource pack and plugin were exercised in an isolated Paper 26.2 / Java 25 server; a real Minecraft client and actual pack delivery were not available for acceptance testing. Do not treat the static composition as proof of in-game rendering or click alignment.
+The design review is a code-authored offline composition, **not** a Minecraft client screenshot. The plugin JAR passed an isolated Paper 26.2 / Java 25 server smoke. The pack's archive structure was checked, but pack delivery and client rendering were not tested. Do not treat the static composition as proof of in-game rendering or click alignment.
 
 ## Integration
 
