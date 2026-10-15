@@ -45,3 +45,9 @@ The configuration controls text, slots, permissions, capacity enablement and act
 The JAR and resource pack were exercised with an isolated Paper 26.2 build 130 server on Java 25. The resource pack was not applied to an actual Minecraft client, so in-client appearance, GUI-scale alignment, pack delivery and real click/drag behavior remain unverified. The linked design image is an offline composition.
 
 Resource packs change visual assets; the Paper plugin supplies behavior. A resource pack alone does not add new gameplay items or freely redesign vanilla screens.
+
+
+## Artifact checksums
+
+- `VPackMenus-0.1.1-guessbuild-preview.jar`: `a8015b4f0c1b1d24cf21f97a5a572f3159e7f33df2477628798bd15bc297f917`
+- `VPackMenus-GuessBuild-Pack.zip`: `eaa8286300e7ccf76ab8089d428725f4b0e949886c47704d5c64a4e5f933447a`
