@@ -42,7 +42,7 @@ The configuration controls text, slots, permissions, capacity enablement and act
 
 ## Testing status
 
-The JAR and resource pack were exercised with an isolated Paper 26.2 build 130 server on Java 25. The resource pack was not applied to an actual Minecraft client, so in-client appearance, GUI-scale alignment, pack delivery and real click/drag behavior remain unverified. The linked design image is an offline composition.
+The plugin JAR passed an isolated Paper 26.2 build 130 server smoke on Java 25. The resource-pack ZIP passed local structure checks but was not delivered by VPackEngine or applied to a Minecraft client. In-client appearance, GUI-scale alignment, pack delivery and real click/drag behavior remain unverified. The linked design image is an offline composition.
 
 Resource packs change visual assets; the Paper plugin supplies behavior. A resource pack alone does not add new gameplay items or freely redesign vanilla screens.
 
